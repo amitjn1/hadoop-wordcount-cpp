@@ -1,6 +1,6 @@
 # Hadoop C++ WordCount
 
-This project contains information regarding compiling the C++ WordCount implementation found [here][wordcount_link] with Hadoop 2.6, as the original guide (and many other Hadoop C++ tutorials).
+This project contains information regarding compiling the C++ WordCount implementation found [here][wordcount_link] with Hadoop, as the original guide (and some other Hadoop C++ tutorials).
 
 [wordcount_link]: http://cs.smith.edu/dftwiki/index.php/Hadoop_Tutorial_2.2_--_Running_C%2B%2B_Programs_on_Hadoop
 [apache_hadoop_doc]: https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html
