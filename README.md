@@ -10,7 +10,7 @@ This project contains information regarding compiling the C++ WordCount implemen
 Clone this project on hadoop client node and build:
 
 ```bash
-git clone https://github.com/alexanderkoumis/hadoop-wordcount-cpp wordcount
+git clone https://github.com/amitjn1/hadoop-wordcount-cpp wordcount
 cd wordcount
 make -j4
 ```
