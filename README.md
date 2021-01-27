@@ -7,7 +7,17 @@ This project contains information regarding compiling the C++ WordCount implemen
 
 ## Compile WordCount
 
-Clone this project on hadoop client node and build:
+Clone this project on hadoop client node.
+
+Edit line 2 in makefile to update the hadoop install directory as per your hadoop installation:
+```bash
+vi makefile
+
+HADOOP_INSTALL = /opt/mapr/hadoop/hadoop-2.7.0 <== Update this line
+
+```
+
+Build the code:
 
 ```bash
 git clone https://github.com/amitjn1/hadoop-wordcount-cpp wordcount
