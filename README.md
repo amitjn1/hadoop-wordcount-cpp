@@ -1,6 +1,6 @@
 # Hadoop C++ WordCount
 
-This project contains information regarding compiling the C++ WordCount implementation found [here][wordcount_link] with Hadoop 2.6, as the original guide (and many other Hadoop C++ tutorials) shows deprecated Hadoop binary calls, and a makefile that will not compile with modern versions of GCC. Most execution instructions are derived from [Setting up a Single Node Cluster][apache_hadoop_doc].
+This project contains information regarding compiling the C++ WordCount implementation found [here][wordcount_link] with Hadoop 2.6, as the original guide (and many other Hadoop C++ tutorials).
 
 [wordcount_link]: http://cs.smith.edu/dftwiki/index.php/Hadoop_Tutorial_2.2_--_Running_C%2B%2B_Programs_on_Hadoop
 [apache_hadoop_doc]: https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html
